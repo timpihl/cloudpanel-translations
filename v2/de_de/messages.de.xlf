@@ -90,6 +90,10 @@
                 <source>Portuguese</source>
                 <target>Portugiesisch</target>
             </trans-unit>
+            <trans-unit id="locale-portuguese-brasil">
+                <source>Portuguese (Brasil)</source>
+                <target>Portugiesisch (Brasilien)</target>
+            </trans-unit>
             <trans-unit id="locale-greek">
                 <source>Greek</source>
                 <target>Griechisch</target>
@@ -97,6 +101,10 @@
             <trans-unit id="locale-lithuania">
                 <source>Lithuanian</source>
                 <target>Litauisch</target>
+            </trans-unit>
+            <trans-unit id="locale-turkish">
+                <source>Turkish</source>
+                <target>Türkisch</target>
             </trans-unit>
             <trans-unit id="ipv4-public-ip">
                 <source>IPv4 Public IP</source>
